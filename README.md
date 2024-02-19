@@ -10,6 +10,8 @@ requirements.bat install everything what needed, if not work, use requirements3.
 
 Next open start.bat, if not work, use start3.bat
 
+press space to play
+
 UA:
 
 Інструкція:
@@ -20,6 +22,8 @@ requirements.bat встановить всі залежності, якщо не
 
 Потім start.bat, якщо не ворк то start3.bat
 
+Натисніть пробіл, щоб грати
+
 RU:
 
 инструкция:
@@ -29,3 +33,5 @@ RU:
 requirements.bat установит зависимости,если не ворк то requirements3.bat
 
 потом start.bat, если не ворк то start3.bat
+
+нажмите пробел, чтоб играть
